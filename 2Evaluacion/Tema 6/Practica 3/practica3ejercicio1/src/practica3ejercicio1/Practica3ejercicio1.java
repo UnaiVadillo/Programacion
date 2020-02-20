@@ -28,7 +28,5 @@ public class Practica3ejercicio1 {
         }else{
             JOptionPane.showMessageDialog(null, "CODIGO INCORRECTO");
         }
-        
-    }
-    
+    }   
 }
